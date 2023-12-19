@@ -1,5 +1,7 @@
 {
 "DFIntTaskSchedulerTargetFps": "999",
+"DFFlagESGamePerfMonitorEnabled": false,
+"DFIntESGamePerfMonitorHundredthsPercentage": 0,
 "DFFlagDebugPauseVoxelizer": "True",
 "FFlagDebugGraphicsPreferD3D11":  "True",
 "DFFlagDebugRenderForceTechnologyVoxel":  "True",
@@ -32,5 +34,7 @@
 "FFlagDebugDisableTelemetryV2Event": "True",
 "FFlagDebugDisableTelemetryV2Stat": "True",
 "FFlagFixGraphicsQuality": "True",
-"FFlagCommitToGraphicsQualityFix": "True"
+"FFlagCommitToGraphicsQualityFix": "True",
+"FFlagReconnectDisabled": "True",
+"FStringReconnectDisabledReason": "Somalian ass internet dawg fix it"
 }
