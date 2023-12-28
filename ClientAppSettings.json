@@ -15,7 +15,7 @@
 "FStringTerrainMaterialTable2022": "",
 "FStringTerrainMaterialTablePre2022": "",
 "FStringPartTexturePackTable2022": "",
-"FIntDebugForceMSAASamples": "1",
+"FIntDebugForceMSAASamples": "4",
 "DFFlagTextureQualityOverrideEnabled": "True",
 "DFIntTextureQualityOverride": "0",
 "DFIntCSGLevelOfDetailSwitchingDistance": "0",
@@ -36,5 +36,13 @@
 "FFlagFixGraphicsQuality": "True",
 "FFlagCommitToGraphicsQualityFix": "True",
 "FFlagReconnectDisabled": "True",
-"FStringReconnectDisabledReason": "Somalian ass internet dawg fix it"
+"FStringReconnectDisabledReason": "Somalian ass internet dawg fix it",
+"FFlagEnableInGameMenuModernization": false,
+"FFlagDebugRenderingSetDeterministic": true,
+"FFlagGlobalWindRendering": false,
+"FFlagGlobalWindActivated": false,
+"DFIntClientLightingTechnologyChangedTelemetryHundredthsPercent": 0,
+"FFlagEnableCommandAutocomplete": false,
+"FIntHSRClusterSymmetryDistancePercent": 10000,
+"DFFlagLoadCharacterLayeredClothingProperty2": false
 }
