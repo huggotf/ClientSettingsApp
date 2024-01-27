@@ -1,4 +1,5 @@
 {
+"FFlagDebugSkyGray": "True",
 "DFIntTaskSchedulerTargetFps": "999",
 "DFFlagESGamePerfMonitorEnabled": false,
 "DFIntESGamePerfMonitorHundredthsPercentage": 0,
@@ -15,7 +16,7 @@
 "FStringTerrainMaterialTable2022": "",
 "FStringTerrainMaterialTablePre2022": "",
 "FStringPartTexturePackTable2022": "",
-"FIntDebugForceMSAASamples": "4",
+"FIntDebugForceMSAASamples": "1",
 "DFFlagTextureQualityOverrideEnabled": "True",
 "DFIntTextureQualityOverride": "0",
 "DFIntCSGLevelOfDetailSwitchingDistance": "0",
